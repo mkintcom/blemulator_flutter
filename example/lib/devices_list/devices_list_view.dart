@@ -2,7 +2,6 @@ import 'dart:async';
 
 import 'package:fimber/fimber.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
 import 'package:blemulator_example/devices_list/hex_painter.dart';
 import 'package:blemulator_example/model/ble_device.dart';
 
